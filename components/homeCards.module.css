@@ -1,0 +1,20 @@
+.section {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-bottom: 5%;
+}
+
+.article {
+    background-color: white;
+    min-width: 20%;
+    margin:5px;
+    /* margin-top:5%; */
+    /* margin-bottom: 5%; */
+}
+.div {
+    color:parent
+}
+.article h2 {
+    color: rgb(90,20,20);
+}

@@ -1,0 +1,11 @@
+.date {
+    font-size: small;
+    margin-left: 5px;
+}
+
+.header {
+    /* background-color: white; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
