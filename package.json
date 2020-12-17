@@ -4,8 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build && next export",
-    "start": "next start"
+    "build": "next build",
+    "start": "next start -p $PORT"
   },
   "dependencies": {
     "caniuse-lite": "^1.0.30001088",
