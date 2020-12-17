@@ -6,7 +6,8 @@ date: '2020/12/17 (WIP)'
 - ### Deleting Amazon Content
 - ### Transfer Domain to Heroku
 - ### Use Node.js Instead of S3 
-- ### Next.js
+- ### GitHubFlow
+Created Main branch which auto-deploys. Dev is done on master. Merging to main deploys.
 ## Previous Todo
 - ### ~Consider Automating Deployment~
 Connected Heroku App to Github auto deploy
