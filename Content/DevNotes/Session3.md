@@ -17,6 +17,6 @@ Have it say something other than "Footer".
 ## Todo
 - ### Stub out GAME
 - ### Create Dev Branch
-Find a git workflow that works with autodeploy
+Find a git workflow that works with auto-deploy
 - ### Create Automated Tests
 Have Github run them on push
