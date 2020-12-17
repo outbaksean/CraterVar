@@ -8,15 +8,15 @@ date: '12/17/2020 (WIP)'
 - ### Use Node.js Instead of S3 
 - ### Next.js
 ## Previous Todo
-- ### Version Control
-The code is in git on my local machine only which is bad. I'll put it on github next session.
-- ### Stub Content
-I still need to do this. It's low priority for now
-- ### Brainstorm Next Steps
-This will probably be an ongoing thing. Next.js I think was a good choice. From there, who knows.
+- ### ~Consider Automating Deployment~
+Connected Heroku App to Github auto deploy
+- ### Rework Home Cards
+Make the home screen cards into a more fully fledged bookmark system. Have the recent updates pull automatically.
+- ### Update the Footer
+Have it say something other than "Footer".
 ## Todo
 - ### Stub out GAME
-- ### Cleanup
-This will become an ongoing thing. The next.js code and structure is full of commented out code and inconsistent style. This should be cleaned up hopefully before pushing to github. But! It is still important to publish often, I won't let bad code keep me from publishing.
-- ### Secure Site
-Figure out how to use Let's Encrypt to change the site to https.
+- ### Create Dev Branch
+Find a git workflow that works with autodeploy
+- ### Create Automated Tests
+Have Github run them on push
