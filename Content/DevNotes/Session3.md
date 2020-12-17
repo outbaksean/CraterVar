@@ -1,6 +1,6 @@
 ---
 title: 'Dev Session 3 - Moving to Heroku'
-date: '12/17/2020 (WIP)'
+date: '2020/12/17 (WIP)'
 ---
 - ## Moving to Heroku
 - ### Deleting Amazon Content
